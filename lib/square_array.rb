@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  array.count
+while x >= 1
+  puts "Array of numbers"
+  x = x**2
 end
